@@ -7,23 +7,22 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## Ashley Winter
 
 <span class="image left"><img src="{{ "/images/ashley.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+Ashley Winter is a photographer and storyteller from Eugene, Oregon, whose work explores the intersection of nature, memory, and transformation. Born in Texas and raised in Alaska and California, she is deeply influenced by the raw stillness of the wilderness. Her imagery reflects impermanence, resilience, and the quiet beauty found in natural forms, capturing how light transforms ordinary moments into reflections of spirit and presence. Through photography, Ashley examines the relationship between nature and the human experience, finding balance between strength and softness, solitude and connection. Her lived experience as a survivor and advocate for self-awareness and healing informs her creative lens, allowing her to translate emotional truth into visual form. Each piece invites reflection on the unseen conversation between spirit and matter, and on how beauty continues to emerge through time and loss.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
-
-### Content is Imortant
+### Content is Important
 <div class="box">
   <p>
   In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/skull.jpeg" | absolute_url }}" alt="" /></span>
 
 On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+
 
 
